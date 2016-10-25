@@ -60,24 +60,16 @@ h1 {
   letter-spacing: 1.3px;
   font-weight: 700;
   margin: 32px 0 18px;
-  text-align: left;
 }
 
 main {
   text-align: center;
-  width: 480px;
   margin: 0 auto;
-
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
 }
 
 main ul li {
   font-size: 15px;
   font-weight: 400;
-  text-align: left;
 }
 
 main ul li {
@@ -88,7 +80,7 @@ main ul li {
 main ul li .tiny.material-icons {
   font-size: 11px;
   position: absolute;
-  right: -15px;
+  left: -15px;
   top: 5px;
 }
 
@@ -102,15 +94,6 @@ footer {
   height: 50px;
   display: block;
   clear: both;
-}
-
-section.float_l { float: left; }
-section.float_r { float: right; }
-
-section.float_r h1,
-section.float_r ul,
-section.float_r ul li {
-  text-align: right;
 }
 
 section.float_r ul li .tiny.material-icons {
