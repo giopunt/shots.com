@@ -153,3 +153,15 @@ section.float_r ul li .tiny.material-icons {
   }
 
 }
+
+@media only screen
+  and (max-height: 710px) {
+
+    main {
+      position: relative;
+      transform: translate(0, 0);
+      top: auto;
+      left: auto;
+    }
+
+}
