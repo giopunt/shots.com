@@ -8,11 +8,11 @@ html *, body {
 }
 
 html, body {
-  background: #6057bb; /* For browsers that do not support gradients */
-  background: -webkit-linear-gradient(left top, #6057bb, #bd96f6); /* For Safari 5.1 to 6.0 */
-  background: -o-linear-gradient(bottom right, #6057bb, #bd96f6); /* For Opera 11.1 to 12.0 */
-  background: -moz-linear-gradient(bottom right, #6057bb, #bd96f6); /* For Firefox 3.6 to 15 */
-  background: linear-gradient(to bottom right, #6057bb, #bd96f6); /* Standard syntax */
+  background: #3023AE; /* For browsers that do not support gradients */
+  background: -webkit-linear-gradient(left top, #3023AE, #bd96f6); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(bottom right, #3023AE, #bd96f6); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(bottom right, #3023AE, #bd96f6); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(to bottom right, #3023AE, #bd96f6); /* Standard syntax */
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
@@ -67,7 +67,7 @@ main {
   text-align: center;
   width: 480px;
   margin: 0 auto;
-
+  text-shadow: 0px 1px 1px #3023AE;
   position: absolute;
   top: 50%;
   left: 50%;
