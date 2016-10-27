@@ -7,7 +7,7 @@ html *, body {
   box-sizing: border-box;
 }
 
-html, body {
+body {
   background: #3023AE; /* For browsers that do not support gradients */
   background: -webkit-linear-gradient(left top, #3023AE, #bd96f6); /* For Safari 5.1 to 6.0 */
   background: -o-linear-gradient(bottom right, #3023AE, #bd96f6); /* For Opera 11.1 to 12.0 */
