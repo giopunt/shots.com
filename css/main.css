@@ -15,6 +15,7 @@ body {
   background: linear-gradient(to bottom right, #3023AE, #bd96f6); /* Standard syntax */
   background-repeat: no-repeat;
   background-attachment: fixed;
+  -webkit-text-size-adjust: 100%;
 }
 
 header, nav, main, section, article, footer {
